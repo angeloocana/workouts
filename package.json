@@ -1,0 +1,9 @@
+{
+  "name": "workouts",
+  "version": "0.0.1",
+  "description": "Workout routine generator",
+  "main": "index.js",
+  "repository": "https://github.com/angeloocana/workouts",
+  "author": "Angelo Ocana <angeloocana@gmail.com>",
+  "license": "MIT"
+}
